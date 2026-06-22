@@ -1,1 +1,1 @@
-# Twitter_sentiment_Analysis_ML
+# SocialPulse - Twitter Sentiment Analyzer - ML
