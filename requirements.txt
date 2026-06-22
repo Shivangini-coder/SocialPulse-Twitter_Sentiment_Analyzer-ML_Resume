@@ -1,0 +1,13 @@
+gradio==6.19.0
+huggingface_hub
+numpy
+pandas
+scikit-learn==1.6.1
+imbalanced-learn
+matplotlib
+seaborn
+wordcloud
+nltk
+datasets
+joblib
+scipy
